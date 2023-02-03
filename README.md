@@ -1,3 +1,11 @@
+# Repo info
+
+Clone from `https://github.com/nullpo-head/xv6-mips`.
+
+发现一个大草的事，原仓库最近的commit也是六年前了。。。不过目前先在这个基础上做改动吧。
+
+
+
 # Xv6-mips
 
 This is MIPS port of Xv6, educational reimplementation of UNIX v6.  
